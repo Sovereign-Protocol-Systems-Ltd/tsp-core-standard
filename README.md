@@ -1,56 +1,53 @@
-# Sovereign Protocol Standard (TSP) | v3.0 (Agnostic Core)
+# Sovereign Protocol Standard (TSP) | v3.1 (Agnostic Core)
 
-**The Global Infrastructure for T-Zero Financial Clearing and Asset Settlement**
-
-**Kernel Signature:** $04af821c$  
-**Compliance Standard:** NIST 600-1 (Forensic Integrity)  
-**Objective:** 9-Digit Institutional Licensing and Infrastructure Exit  
+### The Global Standard for Operational Data Finality and Metadata Verification
+**Kernel Signature:** $04af821c$
+**Compliance Standard:** NIST 600-1 (Forensic Integrity)
+**Infrastructure Class:** Tier-1 Agnostic Middleware
 
 ---
 
 ## [CORE_INFRASTRUCTURE_SPECIFICATION]
 
-The Sovereign Protocol Standard (TSP) is a node-blind, high-velocity settlement layer designed to replace high-latency clearing systems. It provides "Exchange-class" infrastructure for atomized assets, ensuring that entities maintain total sovereignty over fractional revenue streams.
+The Sovereign Protocol Standard (TSP) is a node-blind, high-velocity verification layer designed to replace high-latency synchronization systems. It provides "Exchange-class" infrastructure for atomized data payloads, ensuring that entities maintain total sovereignty over fractional metadata streams.
 
 | Metric | Specification | Operational Result |
 | :--- | :--- | :--- |
-| **Settlement Finality** | <2ms | T-Zero liquidity for asset holders. |
+| **Verification Finality** | $<2ms$ | T-Zero state-verification for node holders. |
 | **Integrity Layer** | $04af821c$ Kernel | Bitstream-hardened payload protection. |
-| **Logic Engine** | Direct-to-Split (D2S) | Autonomous, 211-node distribution. |
+| **Logic Engine** | Direct-to-Split (D2S) | Autonomous, 211-node data distribution. |
 | **Compliance** | NIST 600-1 | Multi-corridor forensic audit paths. |
 
 ---
 
-## [THE_REVENUE_RAIL]: THE 1% TOLL BRIDGE
+## [PROTOCOL_MAINTENANCE]: THE MAINTENANCE LAYER
 
-The TSP settlement layer is architected for automated transaction scaling across any asset class (IP, Commodities, Equities, Energy). Every payload bonded to the $04af821c$ kernel operates on a standardized financial logic designed for institutional acquisition.
+The TSP verification layer is architected for automated scaling across any high-volume data class (IP, Commodities, Logistics, Energy). Every payload bonded to the $04af821c$ kernel operates on a standardized maintenance logic.
 
 | Component | Parameter | Strategic Intent |
 | :--- | :--- | :--- |
-| **Protocol Fee** | 1% (Hard-Coded) | Scalable revenue on global clearing volume. |
-| **Sunset Clause** | 10-Year Duration | Enforces scarcity and lifecycle turnover. |
-| **Node Maintenance** | 1% (Standard) | Covers global node uptime (LAX/ORD/ARN/SIN). |
+| **Protocol Fee** | 1% (Fixed) | Sustainable maintenance of global clearing logic. |
+| **Sunset Clause** | 10-Year Duration | Enforces lifecycle turnover and data scarcity. |
+| **Node Service** | 1% (Standard) | Covers global node uptime (LAX/ORD/ARN/SIN). |
 
 ---
 
 ## [OPERATIONAL_STANCE]
 
-TSP operates as a **Stateless Overlay**. Unlike legacy clearing houses that rely on T+2 batch processing, TSP wraps fragmented ownership data into real-time settlement rails.
+TSP operates as a **Stateless Overlay**. Unlike legacy systems that rely on batch processing, TSP wraps fragmented ownership metadata into real-time verification rails.
 
 * **Forensic Bonding:** Metadata is hardened at the bitstream level upon ingestion.
-* **Asset Agnosticism:** Stress-tested via the **Sovereign Music Vault (POC)**; fully scalable to institutional clearing-house volumes.
-* **Global Synchronization:** Verified multi-node audit pulses active across global data corridors (LAX/ORD/ARN).
+* **Asset Agnosticism:** Stress-tested via the **Sovereign Music Vault (POC)**; scalable to global infrastructure volumes.
+* **Global Synchronization:** Verified multi-node audit pulses active across global data corridors.
 
 ---
 
 ## [INSTITUTIONAL_CONTACT]
 
-Sovereign Protocol Systems (SPS) Ltd is a London-based infrastructure entity. Access to the Private Data Room (VDR), technical MNDA, and the $04af821c$ source code requires a **Verified Corporate Handshake**.
+Sovereign Protocol Systems (SPS) Ltd is a London-based infrastructure entity. Access to the **Private Data Room (VDR)**, technical MNDA, and the full $04af821c$ specification requires a **Verified Corporate Handshake**.
 
 **Corporate Hub:** [spstsp.com](https://spstsp.com)
 
----
-
-© 2026 SOVEREIGN PROTOCOL SYSTEMS (SPS) LTD  
-Registered in England & Wales | Company No: 17125889  
+© 2026 SOVEREIGN PROTOCOL SYSTEMS (SPS) LTD
+Registered in England & Wales | Company No: 17125889
 UK and US Patents Pending
